@@ -17,14 +17,5 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/SZy3Qo1bOi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
 <img src='http://g.recordit.co/6oJ0vooifC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
