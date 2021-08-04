@@ -14,8 +14,3 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 - User can log out.
 - User can view comments on a post.
 - User can add a new comment.
-
-## Video Walkthrough
-
-<img src='http://g.recordit.co/6oJ0vooifC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
